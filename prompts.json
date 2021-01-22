@@ -25,16 +25,13 @@
     "prompt": "What two words would passengers never want to hear a pilot say?"
   },
   {
-    "prompt": "You would never go on a roller coaster called 'BLANK'"
+    "prompt": "You would never go on a roller coaster called \\_\\_\\_\\_\\_"
   },
   {
-    "prompt": "The secret to a happy life."
+    "prompt": "The secret to a happy life"
   },
   {
     "prompt": "What two words would passengers never want to hear a pilot say?"
-  },
-  {
-    "prompt": "You would never go on a roller coaster called:"
   },
   {
     "prompt": "The secret to a happy life"
@@ -46,7 +43,7 @@
     "prompt": "Name a candle scent designed specifically for Kim Kardashian"
   },
   {
-    "prompt": "You should never give alchohol to:"
+    "prompt": "You should never give alchohol to \\_\\_\\_\\_\\_"
   },
   {
     "prompt": "Everyone knows that moneks hate:"
@@ -64,7 +61,7 @@
     "prompt": "The Skittles flavor that just missed the cut"
   },
   {
-    "prompt": "On your wedding night, it would be horrible to find out that the person you married is:"
+    "prompt": "On your wedding night, it would be horrible to find out that the person you married is \\_\\_\\_\\_\\_"
   },
   {
     "prompt": "A name for a really bad Broadway musical"
@@ -98,7 +95,7 @@
     "prompt": "A terrible name for a cruise ship"
   },
   {
-    "prompt": "What Franklin D. Roosevelt meant to say was 'We have nothing to fear, but':"
+    "prompt": "What Franklin D. Roosevelt meant to say was 'We have nothing to fear, but \\_\\_\\_\\_\\_'"
   },
   {
     "prompt": "Come up with a title for an adult version of any classic video game",
@@ -111,7 +108,7 @@
     "prompt": "Something you should never put on an open wound"
   },
   {
-    "prompt": "Scientists say erosion, but we all know the Grand Canyon was actually made by:"
+    "prompt": "Scientists say erosion, but we all know the Grand Canyon was actually made by \\_\\_\\_\\_\\_"
   },
   {
     "prompt": "The real reason the dinosaurs died"
@@ -251,7 +248,7 @@
     "nsfw": true
   },
   {
-    "prompt": "You know you're in for a bad taxi ride when:"
+    "prompt": "You know you're in for a bad taxi ride when \\_\\_\\_\\_\\_"
   },
   {
     "prompt": "Where do babies come from?"
@@ -318,7 +315,7 @@
     "prompt": "Okay... fine! What do YOU want to talk about then?!!!"
   },
   {
-    "prompt": "Miller Lite beer would make a lot of money if they came up with a beer called Miller Lite:"
+    "prompt": "Miller Lite beer would make a lot of money if they came up with a beer called Miller Lite \\_\\_\\_\\_\\_"
   },
   {
     "prompt": "Something you should never stick up your butt",
@@ -331,14 +328,409 @@
     "prompt": "An inappropriate thing to do at a cemetery"
   },
   {
-    "prompt": "Like chicken fingers or chicken poppers, a new appetizer name for your fun, theme restaurant - chicken:"
+    "prompt": "Like chicken fingers or chicken poppers, a new appetizer name for your fun, theme restaurant: chicken \\_\\_\\_\\_\\_"
   },
   {
     "prompt": "Thing you'd be most surprised to have a dentist a find in your mouth"
   },
   {
     "prompt": "Rename Winnie-the-Pooh to something more appropriate/descriptive"
+  },
+  {
+    "prompt": "Name the sequel to 'Titanic' if there were one. 'Titanic 2: \\_\\_\\_\\_\\_'"
+  },
+  {
+    "prompt": "An alternate use for a banana"
+  },
+  {
+    "prompt": "What you'd guess is an unadvertised ingredient in most hot dogs"
+  },
+  {
+    "prompt": "Name your new haircutting establishment"
+  },
+  {
+    "prompt": "Something that would make an awful hat"
+  },
+  {
+    "prompt": "How many monkeys is too many monkeys?"
+  },
+  {
+    "prompt": "Something you'd be surprised to see a donkey do"
+  },
+  {
+    "prompt": "The title you'd come up with if you were writing the Olympics theme song"
+  },
+  {
+    "prompt": "Something you should never say to your mother"
+  },
+  {
+    "prompt": "Come up with a name for a new, very manly cocktail"
+  },
+  {
+    "prompt": "Where's the best place to hide from the shadow monsters?"
+  },
+  {
+    "prompt": "The three ingredients in the worst smoothie ever"
+  },
+  {
+    "prompt": "The best thing to use when you're out of toilet paper"
+  },
+  {
+    "prompt": "Come up with a catchier, more marketable name for the Bible"
+  },
+  {
+    "prompt": "The most presidential name you can think of (that isn't already the name of a president)"
+  },
+  {
+    "prompt": "A good way to get fired"
+  },
+  {
+    "prompt": "If we can't afford to bury or cremate you, what should we do with your body?"
+  },
+  {
+    "prompt": "Name the eighth dwarf, who got cut at the last minute"
+  },
+  {
+    "prompt": "A good place to hide boogers"
+  },
+  {
+    "prompt": "Come up with the name for a new TV show with the word Spanky in it",
+    "nsfw": true
+  },
+  {
+    "prompt": "A fun trick to play on the Pope"
+  },
+  {
+    "prompt": "Where do you think the beef really is?"
+  },
+  {
+    "prompt": "Something it'd be fun to throw off the Eiffel Tower"
+  },
+  {
+    "prompt": "Write a newspaper headline that will really catch people's attention"
+  },
+  {
+    "prompt": "The worst job title that starts with Assistant"
+  },
+  {
+    "prompt": "The last person you'd consider inviting to your birthday party"
+  },
+  {
+    "prompt": "The grossest thing you'd put in your mouth for $18"
+  },
+  {
+    "prompt": "What John Goodman's belches smell like"
+  },
+  {
+    "prompt": "The name of a new perfume by Betty White"
+  },
+  {
+    "prompt": "The worst name for a robot"
+  },
+  {
+    "prompt": "The first names of each of your nipples"
+  },
+  {
+    "prompt": "The most embarrassing name for a dog"
+  },
+  {
+    "prompt": "The worst thing you could discover in your burrito"
+  },
+  {
+    "prompt": "One thing never to do on a first date"
+  },
+  {
+    "prompt": "Ozzy Osbourne's Twitter password, probably"
+  },
+  {
+    "prompt": "Who let the dogs out?"
+  },
+  {
+    "prompt": "What do vegans taste like?"
+  },
+  {
+    "prompt": "An item NOT found in Taylor Swift's purse"
+  },
+  {
+    "prompt": "Name a new reggae band made up entirely of chickens"
+  },
+  {
+    "prompt": "Name a children's book by someone who hates children"
+  },
+  {
+    "prompt": "The name of your new plumbing company"
+  },
+  {
+    "prompt": "Make up a word that describes the sound of farting into a bowl of mac & cheese"
+  },
+  {
+    "prompt": "A new ice cream flavor that no one would ever order"
+  },
+  {
+    "prompt": "Name a new movie starring a talking goat who is president of the United States"
+  },
+  {
+    "prompt": "Something that would not work well as a dip for tortilla chips"
+  },
+  {
+    "prompt": " If God has a sense of humor, he welcomes people to heaven by saying, '\\_\\_\\_\\_\\_'"
+  },
+  {
+    "prompt": "The name of a clothing store for overweight leprechauns"
+  },
+  {
+    "prompt": "Something upsetting you could say to the cable guy as he installs your television service"
+  },
+  {
+    "prompt": "The worst thing that could jump out of a bachelor party cake"
+  },
+  {
+    "prompt": "Come up with a name for a new beer marketed toward babies"
+  },
+  {
+    "prompt": "A terrible theme for a high school prom"
+  },
+  {
+    "prompt": "Make up a name for a silent-film porno from the 1920s",
+    "nsfw": true
+  },
+  {
+    "prompt": "Something you should not whisper to your grandmother"
+  },
+  {
+    "prompt": "A terrible name for a 1930s gangster"
+  },
+  {
+    "prompt": "Brand name of a bottled water sold in the land of Oz"
+  },
+  {
+    "prompt": "A fun thing to yell as a baby is being born"
+  },
+  {
+    "prompt": "The worst family secret that could come out over Thanksgiving dinner"
+  },
+  {
+    "prompt": "The name of a toilet paper specifically designed for the Queen of England"
+  },
+  {
+    "prompt": "Something you'd probably find a lot of in God's refrigerator"
+  },
+  {
+    "prompt": "The worst person to narrate the audiobook of 'Fifty Shades of '",
+    "nsfw": true
+  },
+  {
+    "prompt": "A lawn decoration sure to make the neighbors mad"
+  },
+  {
+    "prompt": "The worst thing to say when trying to adopt a pet"
+  },
+  {
+    "prompt": "A good name for an erotic bakery",
+    "nsfw": true
+  },
+  {
+    "prompt": "People wouldn't respect He-Man as much if, to gain his power, he held up his sword and shouted \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "Fun thing to do if locked in the mall overnight"
+  },
+  {
+    "prompt": "The worst person to receive a sponge bath from"
+  },
+  {
+    "prompt": "Pants would be a whole lot better if they \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The most awesome Guinness World Record to break"
+  },
+  {
+    "prompt": "A little-known way to get gum out of your hair"
+  },
+  {
+    "prompt": "It's bad to be buried alive. It's worse to be buried alive with \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "Something that would not work as well as skis"
+  },
+  {
+    "prompt": "A rejected title for 'The Good, The Bad and the Ugly' was 'The Good, the Bad and the \\_\\_\\_\\_\\_'"
+  },
+  {
+    "prompt": "A rejected name for a ship in the U.S. Naval Fleet: the USS \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "What to say to get out of jury duty"
+  },
+  {
+    "prompt": "What the Statue of Liberty is hiding beneath that robe"
+  },
+  {
+    "prompt": "There's only one time that murder is acceptable and that is when \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "Take any well-known restaurant and slightly change its name to something inappropriate",
+    "nsfw": true
+  },
+  {
+    "prompt": "Little-known fact: The government allows peanut butter to contain up to 10% \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "A good sign that your house is haunted"
+  },
+  {
+    "prompt": "A catchy name for a sperm bank",
+    "nsfw": true
+  },
+  {
+    "prompt": "A bad occupation for a robot to have"
+  },
+  {
+    "prompt": "A sequel to the painting Dogs Playing Poker"
+  },
+  {
+    "prompt": "The Tooth Fairy's other job"
+  },
+  {
+    "prompt": "Little-known fact: A secret area in the White House is the \\_\\_\\_\\_\\_ room"
+  },
+  {
+    "prompt": "An invention by Thomas Edison that never caught on"
+  },
+  {
+    "prompt": "A bad place to skinny-dip"
+  },
+  {
+    "prompt": "What time is it?"
+  },
+  {
+    "prompt": "A birthday present you shouldn't get for your grandmother"
+  },
+  {
+    "prompt": "A short motto everyone should live by"
+  },
+  {
+    "prompt": "Invent a Christmas tradition sure to catch on"
+  },
+  {
+    "prompt": "A bad thing to yell during church"
+  },
+  {
+    "prompt": "The unsexiest thought you can have",
+    "nsfw": true
+  },
+  {
+    "prompt": "A good improvement to make to Mt. Rushmore"
+  },
+  {
+    "prompt": "The best way to start your day"
+  },
+  {
+    "prompt": "The worst name for a summer camp"
+  },
+  {
+    "prompt": "Something that's made worse by adding cheese"
+  },
+  {
+    "prompt": "Three things are certain in life: Death, Taxes, and \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "A faster way to get home from the Land of Oz is to click your heels three times and say \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The first commandment in the new religion you started"
+  },
+  {
+    "prompt": "Come up with a name for a rock band made up entirely of baby ducks"
+  },
+  {
+    "prompt": "Something that is currently legal that should be banned"
+  },
+  {
+    "prompt": "A word that should never follow Beef"
+  },
+  {
+    "prompt": "The perfect song to hum on the toilet"
+  },
+  {
+    "prompt": "A bad thing to say to a cop as he writes you a speeding ticket"
+  },
+  {
+    "prompt": "Something you shouldn't buy off of Craigslist"
+  },
+  {
+    "prompt": "Take any U.S. president's name and turn it into something inappropriate",
+    "nsfw": true
+  },
+  {
+    "prompt": "We can all agree that \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The name you would give to a really mopey pig"
+  },
+  {
+    "prompt": "A great name to have on a fake I.D."
+  },
+  {
+    "prompt": "What robots dream about"
+  },
+  {
+    "prompt": "What really happened to Amelia Earhart"
+  },
+  {
+    "prompt": "How far is too far?"
+  },
+  {
+    "prompt": "If at first you don't succeed..."
+  },
+  {
+    "prompt": "Finish this sentence: When I'm rich, my mansion will have a room called The \\_\\_\\_\\_\\_ Room"
+  },
+  {
+    "prompt": "Something you'd be surprised to see come out of a pimple you pop"
+  },
+  {
+    "prompt": "Today's music needs more \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "A fun trick to play on your doctor"
+  },
+  {
+    "prompt": "A bad place for your rocket ship to crash would be The Planet of the \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "A bad campaign slogan for a congressperson"
+  },
+  {
+    "prompt": "The coolest way to die"
+  },
+  {
+    "prompt": "Two people from history that should definitely have sex",
+    "nsfw": true
+  },
+  {
+    "prompt": "The name of an all-male version of Hooters",
+    "nsfw": true
+  },
+  {
+    "prompt": "A little-known nickname for New Orleans"
+  },
+  {
+    "prompt": "The next product for Matthew McConaughey to endorse"
+  },
+  {
+    "prompt": "A unique way to escape from prison"
+  },
+  {
+    "prompt": "The title of a new YouTube cat video that's sure to go viral"
+  },
+  {
+    "prompt": "A gift nobody would want: The '\\_\\_\\_\\_\\_' of the Month Club"
+  },
+  {
+    "prompt": "A just-so-crazy-it's-brilliant business idea to pitch on 'Shark Tank'"
+  },
+  {
+    "prompt": "A terrifying fortune cookie fortune"
   }
- 
-
 ]
