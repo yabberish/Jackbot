@@ -277,7 +277,8 @@
     "prompt": "The best place to bury all those bodies"
   },
   {
-    "prompt": "One place a finger shouldn't go"
+    "prompt": "One place a finger shouldn't go",
+    "nsfw": true
   },
   {
     "prompt": "Come up with a name for the most difficult yoga pose known to mankind"
