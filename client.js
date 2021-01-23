@@ -14,20 +14,18 @@ const client = new CommandoClient({
   invite: "https://discord.gg/kwkUrpz4ZF",
   ws: {
     intents: Intents.NON_PRIVILEGED
-  },
-  partials: [
-    "CHANNEL",
-    "GUILD_MEMBER",
-    "MESSAGE",
-    "REACTION",
-    "USER"
-  ]
+  }
 });
 
 client.registry.registerGroups([
   ["game", "Game"]
 ]);
-client.registry.registerDefaults();
+client.registry.registerDefaultGroups();
+client.registry.registerDefaultTypes();
+client.registry.registerDefaultCommands({
+  help: false,
+  unknownCommand: false
+});
 client.registry.registerCommandsIn(path.join(__dirname, "commands"));
 
 client.setProvider(sqlite.open({
