@@ -1,9 +1,5 @@
 [
   {
-    "prompt": "You're caught playing Quiplash on NSFW mode! What do you have to say to the children watching at home?",
-    "nsfw": true
-  },
-  {
     "prompt": "The edgy new pokemon GameFreak turned down"
   },
   {
@@ -22,9 +18,6 @@
     "prompt": "Best excuse for forgetting to do your homework"
   },
   {
-    "prompt": "What two words would passengers never want to hear a pilot say?"
-  },
-  {
     "prompt": "You would never go on a roller coaster called \\_\\_\\_\\_\\_"
   },
   {
@@ -32,9 +25,6 @@
   },
   {
     "prompt": "What two words would passengers never want to hear a pilot say?"
-  },
-  {
-    "prompt": "The secret to a happy life"
   },
   {
     "prompt": "If a winning coach gets Gatorade dumped on his head, what should get dumped on the losing coach?"
@@ -277,7 +267,8 @@
     "prompt": "The best place to bury all those bodies"
   },
   {
-    "prompt": "One place a finger shouldn't go"
+    "prompt": "One place a finger shouldn't go",
+    "nsfw": true
   },
   {
     "prompt": "Come up with a name for the most difficult yoga pose known to mankind"
@@ -732,5 +723,583 @@
   },
   {
     "prompt": "A terrifying fortune cookie fortune"
+  },
+  {
+    "prompt": "It would be scary to read on a food package, May contain trace elements of \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "What a dog sext message might say"
+  },
+  {
+    "prompt": "Something the devil is afraid of"
+  },
+  {
+    "prompt": "CBS should air a TV show about lawyers who are also \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "A great thing to yell before jumping out of an airplane"
+  },
+  {
+    "prompt": "What you hope the Mars Rover finds"
+  },
+  {
+    "prompt": "A TMZ headline you really want to see"
+  },
+  {
+    "prompt": "Something that will get you thrown out of a Wendy's"
+  },
+  {
+    "prompt": "A rejected phrase for one of those Valentine heart candies"
+  },
+  {
+    "prompt": "Where missing socks go"
+  },
+  {
+    "prompt": "The first sign that you're old"
+  },
+  {
+    "prompt": "The name of a cocktail for hillbillies"
+  },
+  {
+    "prompt": "Graffiti you might find in a kindergarten"
+  },
+  {
+    "prompt": "The worst thing to wear to your court trial"
+  },
+  {
+    "prompt": "A rejected crayon color"
+  },
+  {
+    "prompt": "An angry review you'd give this game (Quiplash)"
+  },
+  {
+    "prompt": "Bad advice for new graduates"
+  },
+  {
+    "prompt": "The best way to tell if someone is dead"
+  },
+  {
+    "prompt": "A terrible talent to have for the Miss America Pageant"
+  },
+  {
+    "prompt": "Tomorrow's news headline: Scientists Are Shocked to Discover That \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The worst material with which to make a snowman"
+  },
+  {
+    "prompt": "A terrible sportscaster catchphrase for when somebody dunks a basketball"
+  },
+  {
+    "prompt": "The first thing a pig would say if it could talk"
+  },
+  {
+    "prompt": "A surprising job entry on Abraham Lincoln's resume"
+  },
+  {
+    "prompt": "The worst shape for an animal cracker"
+  },
+  {
+    "prompt": "A weird thing to find in your grandparents' bedside table"
+  },
+  {
+    "prompt": "The worst name for a big and tall store"
+  },
+  {
+    "prompt": "Something you'd yell to heckle the performing dolphins at Sea World"
+  },
+  {
+    "prompt": "A new name for kumquats"
+  },
+  {
+    "prompt": "The name of a shampoo for hippies"
+  },
+  {
+    "prompt": "The real secret to living to age 100"
+  },
+  {
+    "prompt": "What really happens if you tear off that mattress tag"
+  },
+  {
+    "prompt": "A bad first line for your presidential inauguration speech"
+  },
+  {
+    "prompt": "A fun thing to do with a bowl of pudding"
+  },
+  {
+    "prompt": "Another use for cooked spaghetti"
+  },
+  {
+    "prompt": "A weird physical way to greet someone"
+  },
+  {
+    "prompt": "The worst name for a tanning salon"
+  },
+  {
+    "prompt": "The worst word that can come before fart"
+  },
+  {
+    "prompt": "A bad substitute for a toothbrush"
+  },
+  {
+    "prompt": "A trick you shouldn't teach your dog"
+  },
+  {
+    "prompt": "Something you can only do in a Walmart if no one's looking"
+  },
+  {
+    "prompt": "A name for a really cheap hotel"
+  },
+  {
+    "prompt": "The second thing said on the moon"
+  },
+  {
+    "prompt": "Why so serious?"
+  },
+  {
+    "prompt": "A tourist attraction in Hell"
+  },
+  {
+    "prompt": "The worst name for a mountain"
+  },
+  {
+    "prompt": "A thought that keeps Santa Claus awake at night"
+  },
+  {
+    "prompt": "The best thing about being really dumb"
+  },
+  {
+    "prompt": "Come up with a name for a salad dressing by Lindsay Lohan"
+  },
+  {
+    "prompt": "What they call pooping in the Land of Oz"
+  },
+  {
+    "prompt": "A completely wrong way to spell Jennifer Aniston"
+  },
+  {
+    "prompt": "The worst way to remove pubic hair"
+  },
+  {
+    "prompt": "You know you're really drunk when \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The best way to defeat terrorism is \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "An animal Noah shouldn't have saved"
+  },
+  {
+    "prompt": "The biggest secret the government keeps"
+  },
+  {
+    "prompt": "The password to the secret, high-society sex club down the street",
+    "nsfw": true
+  },
+  {
+    "prompt": "Another use for gravy"
+  },
+  {
+    "prompt": "The worst name for a rap artist"
+  },
+  {
+    "prompt": "An angry internet comment on a pet store's website"
+  },
+  {
+    "prompt": "A rejected shape for Marshmallow Peeps"
+  },
+  {
+    "prompt": "Something that should never be homemade"
+  },
+  {
+    "prompt": "The worst name for a funeral home"
+  },
+  {
+    "prompt": "What Chewbacca has really been yelling all these years"
+  },
+  {
+    "prompt": "An item on every pervert's grocery list",
+    "nsfw": true
+  },
+  {
+    "prompt": "The worst car feature that ends with holder"
+  },
+  {
+    "prompt": "A Tweet from a caveman"
+  },
+  {
+    "prompt": "Knock, knock! Who's there? \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "A great nickname for your armpit hair"
+  },
+  {
+    "prompt": "Pick any city name and make it sound dirty",
+    "nsfw": true
+  },
+  {
+    "prompt": "What you want your gravestone to read"
+  },
+  {
+    "prompt": "A slogan to get everyone excited about corn"
+  },
+  {
+    "prompt": "It never ends well when you mix \\_\\_\\_\\_\\_ and \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The best reason to go to Australia"
+  },
+  {
+    "prompt": "The beauty pageant no one wants to see: Miss \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The perfect meal would be a \\_\\_\\_\\_\\_ stuffed in a \\_\\_\\_\\_\\_ stuffed in a \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "What's black and white and red all over?"
+  },
+  {
+    "prompt": "A little-known fact about the Jolly Green Giant"
+  },
+  {
+    "prompt": "The worst thing to find growing on your neck"
+  },
+  {
+    "prompt": "USA! USA! America is still number one in \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "A good name for an elderly nudist colony",
+    "nsfw": true
+  },
+  {
+    "prompt": "You should never \\_\\_\\_\\_\\_ and \\_\\_\\_\\_\\_ at the same time"
+  },
+  {
+    "prompt": "What is a tree thinking all day?"
+  },
+  {
+    "prompt": "What you call a baby sasquatch"
+  },
+  {
+    "prompt": "A good name for a sex robot",
+    "nsfw": true
+  },
+  {
+    "prompt": "A bad reason to call 911"
+  },
+  {
+    "prompt": "Name the next big sexually transmitted disease",
+    "nsfw": true
+  },
+  {
+    "prompt": "The worst thing about Canada"
+  },
+  {
+    "prompt": "A strange thing to keep as a pet"
+  },
+  {
+    "prompt": "What kittens would say if they could talk"
+  },
+  {
+    "prompt": "A sign you probably shouldn't put up in your yard"
+  },
+  {
+    "prompt": "What dogs think when they see people naked"
+  },
+  {
+    "prompt": "The sound a tree actually makes when it falls and no one is around to hear it"
+  },
+  {
+    "prompt": "The grossest thing you could find at the bottom of a swimming pool"
+  },
+  {
+    "prompt": "What happens to circumcision skin",
+    "nsfw": true
+  },
+  {
+    "prompt": "The worst name for an SUV"
+  },
+  {
+    "prompt": "A good use for toenail clippings"
+  },
+  {
+    "prompt": "The title of the most boring porno ever",
+    "nsfw": true
+  },
+  {
+    "prompt": "Something you shouldn't stuff with cheese"
+  },
+  {
+    "prompt": "Something Godzilla does when he's drunk"
+  },
+  {
+    "prompt": "Trash talk you would hear at a chess meet"
+  },
+  {
+    "prompt": "A kinky weird thing that does NOT happen in 50 Shades of Grey (as far as you know)",
+    "nsfw": true
+  },
+  {
+    "prompt": "The best part about being Donald Trump"
+  },
+  {
+    "prompt": "Tip: Never eat at a place called Kentucky Fried \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "Something overheard at the Last Supper"
+  },
+  {
+    "prompt": "The name of a species of dinosaur you wouldn't want to meet"
+  },
+  {
+    "prompt": "The worst way to fly: \\_\\_\\_\\_\\_ Airlines"
+  },
+  {
+    "prompt": "https://media.giphy.com/media/3FewLspsw4G2voTvme/giphy.gif"
+  },
+  {
+    "prompt": "Little-known fact: Over the course of a lifetime, an average person accidentally eats ten \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "A great pet name for a parasitic worm that lives in your ear"
+  },
+  {
+    "prompt": "A prank the Supreme Court Justices probably play on each other"
+  },
+  {
+    "prompt": "A crazy thing to find during a colonoscopy"
+  },
+  {
+    "prompt": "A word that should be in the dictionary but isn't"
+  },
+  {
+    "prompt": "Advice: Never stick your tongue into \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The perfect name for a second head that sprouts on your shoulder"
+  },
+  {
+    "prompt": "Something a weatherman might yell if he completely snapped during the weather forecast"
+  },
+  {
+    "prompt": "The worst advice a doctor could give"
+  },
+  {
+    "prompt": "Life hack! Lower your heating bills by \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The worst thing that could crawl out of your toilet"
+  },
+  {
+    "prompt": "No one would guess this is where the treasure is buried"
+  },
+  {
+    "prompt": "What your dog thinks when he sees you naked",
+    "nsfw": true
+  },
+  {
+    "prompt": "How Garfield the cartoon cat will eventually die"
+  },
+  {
+    "prompt": "The worst pizza is \\_\\_\\_\\_\\_-style pizza"
+  },
+  {
+    "prompt": "What to do when your parachute fails"
+  },
+  {
+    "prompt": "Sleepwalking can be a problem but it's not as bad as sleep \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "A good name for a dog country singer"
+  },
+  {
+    "prompt": "Little-known fact: the fourth Wise Man gave baby Jesus the worst gift of all: \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "A theme for a desk calendar that wouldn't sell very well"
+  },
+  {
+    "prompt": "A good name for a restaurant that serves animals with the faces still on them"
+  },
+  {
+    "prompt": "This just in! A \\_\\_\\_\\_\\_ has won the election and will become the new governor of Texas"
+  },
+  {
+    "prompt": "The worst Halloween costume for a young child"
+  },
+  {
+    "prompt": "A lesser-known ingredient in most microwave pizza pockets"
+  },
+  {
+    "prompt": "A better name for the Washington Monument"
+  },
+  {
+    "prompt": "A terrible food truck would be one that goes around selling only \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The worst thing to overhear during your surgery"
+  },
+  {
+    "prompt": "A better name for dandruff"
+  },
+  {
+    "prompt": "The liquid that would make for the worst salad dressing"
+  },
+  {
+    "prompt": "Paul Bunyan's replacement for Babe The Blue Ox when he dies"
+  },
+  {
+    "prompt": "Make up a word that means 'to make up a word'"
+  },
+  {
+    "prompt": "The name of Jesus' 13th apostle"
+  },
+  {
+    "prompt": "Something you don't want to find in your Christmas stocking"
+  },
+  {
+    "prompt": "George W. Bush and Dick Cheney's rap duo name"
+  },
+  {
+    "prompt": "The most bitching thing you can airbrush on your van",
+    "nsfw": true
+  },
+  {
+    "prompt": "Something you probably shouldn't bring on a trip across the Sahara desert"
+  },
+  {
+    "prompt": "Something you'd love to smash with a wrecking ball"
+  },
+  {
+    "prompt": "Life would be so much better if we all lived in \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "What deer would use for bait if they hunted hunters"
+  },
+  {
+    "prompt": "The best name for an obese rapper"
+  },
+  {
+    "prompt": "If animals took over, an exhibit you'd see at the human zoo"
+  },
+  {
+    "prompt": "A magazine that should never have a nude centerfold",
+    "nsfw": true
+  },
+  {
+    "prompt": "Make up a word for the watery substances that come out of a ketchup bottle when you first squeeze it"
+  },
+  {
+    "prompt": "A better name for the game Duck Duck Goose"
+  },
+  {
+    "prompt": "The worst children's board game would be \\_\\_\\_\\_\\_ \\_\\_\\_\\_\\_ Hippos"
+  },
+  {
+    "prompt": "The world's most boring video game"
+  },
+  {
+    "prompt": "The difference between Grade A beef and Grade B beef"
+  },
+  {
+    "prompt": "A great brand name for extra-extra-large condoms",
+    "nsfw": true
+  },
+  {
+    "prompt": "What the genitalia on a Tofurky is called",
+    "nsfw": true
+  },
+  {
+    "prompt": "You shouldn't get a massage at a place called \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The least romantic place to propose marriage"
+  },
+  {
+    "prompt": "You wouldn't want to share a prison cell with someone named (blank)"
+  },
+  {
+    "prompt": "Superman's special power that he never tells anyone about"
+  },
+  {
+    "prompt": "The worst excuse for showing up late to work"
+  },
+  {
+    "prompt": "The worst thing to find stuck in your teeth"
+  },
+  {
+    "prompt": "A better name for France"
+  },
+  {
+    "prompt": "What aliens do with you after the anal probe"
+  },
+  {
+    "prompt": "What makes hot dogs taste so good?"
+  },
+  {
+    "prompt": "What do kittens dream of?"
+  },
+  {
+    "prompt": "A more environment-friendly alternative to toilet paper"
+  },
+  {
+    "prompt": "What tattoo should Justin Bieber get next?"
+  },
+  {
+    "prompt": "Come up with a three-word sequel to the book Eat, Pray, Love"
+  },
+  {
+    "prompt": "The worst name for a race horse"
+  },
+  {
+    "prompt": "What is the Loch Ness Monster, really?"
+  },
+  {
+    "prompt": "What should we do with all of that plastic that won't disintegrate?"
+  },
+  {
+    "prompt": "Forget coffee. Don't talk to me until I've had my \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The name of a new, terrifying species of spider"
+  },
+  {
+    "prompt": "Dodgeball would be an even better sport if \\_\\_\\_\\_\\_ were allowed"
+  },
+  {
+    "prompt": "The name of a fast food restaurant in the Stone Age"
+  },
+  {
+    "prompt": "What is the Abraham Lincoln statue thinking while he's sitting there in the Lincoln Memorial?"
+  },
+  {
+    "prompt": "Don't blame me, I voted for \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "The last thing you'd want to find in your air ducts"
+  },
+  {
+    "prompt": "The worst way to unclog a toilet"
+  },
+  {
+    "prompt": "In the future, moviegoers will flock to see: Jurassic Park 10: \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "A weird thing for someone to frame and hang on the wall"
+  },
+  {
+    "prompt": "You know you're famous when \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "Where Charlie Brown winds up at age 45"
+  },
+  {
+    "prompt": "Why ducks really fly south in the winter"
+  },
+  {
+    "prompt": "America's energy crisis would be over if we made cars that ran on \\_\\_\\_\\_\\_"
+  },
+  {
+    "prompt": "It's incredibly rude to \\_\\_\\_\\_\\_ with your mouth open"
   }
 ]
