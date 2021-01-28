@@ -163,7 +163,28 @@ class QuiplashCommand extends Command {
         currentPromptMessage.edit(promptEmbed);
         currentPromptMessage.react("1️⃣");
         currentPromptMessage.react("2️⃣");
-        const promptCollector = currentPromptMessage.createReactionCollector((reaction, user) => ️["1️⃣", "2️⃣"].includes(reaction.));
+        const voteCollector = currentPromptMessage.createReactionCollector((reaction, user) => (["1️⃣","2️⃣"]).includes(reaction.emoji.name) && !user.bot, {
+          time: 15000
+        });
+
+        console.log(voteCollector);
+
+        let first = [];
+        let second = [];
+
+        voteCollector.on("collect", (reaction, user) => {
+          if (!first.includes(user.id) && !second.includes(user.id)) switch (reaction.emoji.name) {
+            case "1️⃣":
+              first.push(user.id);
+              break;
+            case "2️⃣":
+              second.push(user.id);
+              break;
+          }
+          console.log(first);
+          console.log(second);
+          reaction.users.remove(user);
+        });
       }
     });
   }
