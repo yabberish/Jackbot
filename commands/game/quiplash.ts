@@ -1,10 +1,13 @@
-const { Collection, MessageEmbed } = require("discord.js");
-const { Command } = require("discord.js-commando");
+import {Collection, Message, MessageEmbed} from "discord.js";
+import { Command } from "discord.js-commando";
 
-const prompts = require("../../prompts.json");
+import Jackbot from "../../Jackbot";
+import QuiplashGame from "../../games/QuiplashGame";
 
-class QuiplashCommand extends Command {
-  constructor(client) {
+export default class QuiplashCommand extends Command {
+  client: Jackbot;
+
+  constructor(client: Jackbot) {
     super(client, {
       name: "quiplash",
       group: "game",
@@ -21,7 +24,10 @@ class QuiplashCommand extends Command {
     });
   }
 
-  async run(message) {
+  async run(message): Promise<Message> {
+    if (this.client.games.quiplash.has(message.guild.id))
+      return await message.reply("A game of **Quiplash!** has already started in this server. Wait for that one to finish before starting a new one!");
+
     const embed = new MessageEmbed();
     embed.setTitle("Quiplash!");
     embed.setDescription("A game of **Quiplash!** is starting now!\n\nReact with <:play:802035201445199883> in the next 45 seconds to join!\n0/8 players in game");
@@ -30,7 +36,9 @@ class QuiplashCommand extends Command {
     embed.setThumbnail("https://jackboxgames.b-cdn.net/wp-content/uploads/2019/07/Red.gif");
     embed.setTimestamp();
     let joinMessage = await message.channel.send(embed);
-    joinMessage.react("802035201445199883").catch(console.error);
+    this.client.games.quiplash.set(message.guild.id, new QuiplashGame(this.client, joinMessage));
+    return joinMessage;
+    /*
 
     const collector = joinMessage.createReactionCollector((reaction, user) => reaction.emoji.id === "802035201445199883" && !user.bot, {
       time: 45000,
@@ -79,7 +87,7 @@ class QuiplashCommand extends Command {
         apa[i + 1 < players.size ? i + 1 : 0].push(gamePrompts[i]);
       }
 
-      const category = await message.guild.channels.create("Jackbox", {type: 'category' });
+      const category = await message.guild.channels.create("Jackbot", {type: 'category'});
       const channel = await message.guild.channels.create("quiplash", {parent: category.id});
       
 
@@ -197,8 +205,6 @@ class QuiplashCommand extends Command {
         });
       }
     });
+    */
   }
 }
-
-
-module.exports = QuiplashCommand;
