@@ -163,11 +163,9 @@ class QuiplashCommand extends Command {
         currentPromptMessage.edit(promptEmbed);
         currentPromptMessage.react("1️⃣");
         currentPromptMessage.react("2️⃣");
-        const voteCollector = currentPromptMessage.createReactionCollector((reaction, user) => (["1️⃣","2️⃣"]).includes(reaction.emoji.name) && !user.bot, {
+        const voteCollector = currentPromptMessage.createReactionCollector((reaction, user) => {return (["1️⃣","2️⃣"]).includes(reaction.emoji.name) && !user.bot}, {
           time: 15000
         });
-
-        console.log(voteCollector);
 
         let first = [];
         let second = [];
@@ -181,9 +179,21 @@ class QuiplashCommand extends Command {
               second.push(user.id);
               break;
           }
-          console.log(first);
-          console.log(second);
           reaction.users.remove(user);
+        });
+
+        voteCollector.on("end", () => {
+          currentPromptMessage.reactions.removeAll();
+          promptEmbed.spliceFields(0, 2, {
+            name: `1️⃣: ${client.users.resolve(playersWithPrompts[0])} (${Math.floor((first.length / (first.length + second.length)) * 100)}%)`,
+            value: completedPrompts.get(playersWithPrompts  [0])[filteredPrompts.get(playersWithPrompts[0]) .indexOf(prompt)],
+            inline: true
+          },{
+            name: `2️⃣: ${client.users.resolve(playersWithPrompts[1])} (${Math.floor((second.length / (first.length + second.length)) * 100)}%)`,
+            value: completedPrompts.get(playersWithPrompts  [1])[filteredPrompts.get(playersWithPrompts[1]) .indexOf(prompt)],
+            inline: true
+          });
+          currentPromptMessage.edit(promptEmbed);
         });
       }
     });
