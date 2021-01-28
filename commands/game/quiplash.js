@@ -128,7 +128,7 @@ class QuiplashCommand extends Command {
 
       const promptEmbed = new MessageEmbed();
       promptEmbed.setColor("RANDOM");
-      promptEmbed.setFooter("Vote for your favorite response below!");
+      promptEmbed.setFooter("Vote for your favorite response below! You have 15 seconds.");
 
       let currentPromptMessage;
 
@@ -147,20 +147,23 @@ class QuiplashCommand extends Command {
       const sendPrompt = async () => {
         const prompt = gamePrompts[currentPrompt];
         promptEmbed.setTitle(`Prompt ${++currentPrompt}/${gamePrompts.length}`);
-        promptEmbed.setDescription(prompt);
+        promptEmbed.setDescription(prompt.prompt);
+        const filteredPrompts = assignedPrompts.filter(p => p.includes(prompt));
+        const playersWithPrompts = filteredPrompts.firstKey(2);
+
         promptEmbed.addFields([{
           name: "1️⃣: ???",
-          value: "answer 1",
+          value: completedPrompts.get(playersWithPrompts[0])[filteredPrompts.get(playersWithPrompts[0]).indexOf(prompt)],
           inline: true
         },{
           name: "2️⃣: ???",
-          value: "answer 2",
+          value: completedPrompts.get(playersWithPrompts[1])[filteredPrompts.get(playersWithPrompts[1]).indexOf(prompt)],
           inline: true
         }]);
-        currentPromptMessage.reactions.removeAll();
         currentPromptMessage.edit(promptEmbed);
         currentPromptMessage.react("1️⃣");
         currentPromptMessage.react("2️⃣");
+        const promptCollector = currentPromptMessage.createReactionCollector((reaction, user) => ️["1️⃣", "2️⃣"].includes(reaction.));
       }
     });
   }

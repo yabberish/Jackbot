@@ -62,7 +62,7 @@ class HelpCommand extends Command {
           }).join(", "),
         inline: true
       })));
-      } catch (err) {console.error(err)};
+      } catch (err) {console.error(err)}
       
     } else if (args.command instanceof CommandGroup) {
       embed.setTitle(`${args.command.name} (${args.command.id})`);
